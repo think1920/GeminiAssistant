@@ -1,0 +1,5 @@
+SpeechRecognition
+google-generativeai
+edge-tts
+playsound
+pyaudio
