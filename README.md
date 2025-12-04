@@ -92,7 +92,7 @@ export ASSISTANT_LANG="vi-VN"     # Assistant response language (vi-VN works wel
 ## Usage
 
 ```bash
-python ly_assistant.py
+python main.py
 ```
 
 Say "Ly ơi" → wait for "Nói đi" → ask anything in Vietnamese.
